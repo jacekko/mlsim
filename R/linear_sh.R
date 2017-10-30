@@ -1,0 +1,4 @@
+linear_sh <- function (x, y) 
+{
+    return(y - x)
+}
